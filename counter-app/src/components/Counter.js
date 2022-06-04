@@ -3,7 +3,6 @@ import { increment, decrement, reset } from "../store/action";
 
 function Counter(props) {
   return (
-    
     <article>
       <h2>{props.value}</h2>
       <div>
